@@ -75,3 +75,7 @@ directly in the code. And unit test coverage for the UI components allows us to 
 [faq]: FAQ.md
 [consuming]: wiki/consuming.md
 [docs]: https://elastic.github.io/eui/
+
+---
+
+> **Created by Antono**
