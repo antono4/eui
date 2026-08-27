@@ -1,1 +1,32 @@
-Last updated: 2026-08-27 19:54:40 WIB
+# @elastic/eui
+
+Elastic UI Component Library
+
+## 📋 Overview
+
+This repository contains **6075 files** and is built with the following technologies:
+
+Node.js, JavaScript
+
+## 🚀 Quick Start
+
+```bash
+npm install
+npm run dev
+npm run build
+```
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Node.js, JavaScript
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-08-27 20:43:23 WIB*
